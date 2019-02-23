@@ -1,4 +1,4 @@
-# SqueezeNet_ELU
+# SqueezeNet implemented ELU activation with livelossplot visualization
 	Implemented squeezenet with elu
 	Best cost (time per epoch): 48 sec
 	Best accuracy : 84.04 %
