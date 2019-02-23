@@ -1,4 +1,4 @@
-# SquuezeNet_ELU
+# SqueezeNet_ELU
 	Implemented squeezenet with elu
 	Best cost (time per epoch): 48 sec
 	Best accuracy : 84.04 %
