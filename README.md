@@ -1,4 +1,4 @@
-# SqueezeNet implemented ELU activation with livelossplot visualization 
+# SqueezeNext implemented ELU activation with livelossplot visualization 
 	Dataset : CIFAR-10
 	Best cost (time per epoch): 48 sec
 	Best accuracy : 84.04 %
